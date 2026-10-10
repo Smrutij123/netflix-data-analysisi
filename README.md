@@ -1,4 +1,4 @@
-# netflix-data-analysisi
+# netflix-data-analysis
 
 This is a complete data analysis project that looks at Netflix's library. It figures out things like what kind of content is most popular, where movies and shows are being made, and how good their ratings are—using three main tools: Python, SQL, and Power BI.   
 
